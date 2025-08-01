@@ -2,8 +2,10 @@
 
 ## Current - Work in progress
 ### Merges
-
+*  Merge pull request #2 from leoviana00/feature/infrastructure [View](https://github.com/leoviana00/lab-kafka-spring/commits/d83584faaea395503d84c34bd226bc99a8841301)
 ### Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/lab-kafka-spring/commits/67bc1afa0eaf614ca09bd053276df2f7d5b6d76f)
+*  feat(kafka): uploading kafka docker server [View](https://github.com/leoviana00/lab-kafka-spring/commits/59bd35830db56133c057d0e14880178a032c0b59)
 
 
 
