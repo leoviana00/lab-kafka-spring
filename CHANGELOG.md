@@ -2,8 +2,18 @@
 
 ## Current - Work in progress
 ### Merges
-
+*  Merge pull request #4 from leoviana00/feature/kafka/producer [View](https://github.com/leoviana00/lab-kafka-spring/commits/65d522a5833e314ea321e508d266b8cd8b6a5ee8)
 ### Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/lab-kafka-spring/commits/2d3b3c369dd9794eb840959159415664d153ea83)
+*  feat(producer): ignore files [View](https://github.com/leoviana00/lab-kafka-spring/commits/ec16fd4200b7c4f77ce3302499539f14e59b27e4)
+*  feat(producer): base project [View](https://github.com/leoviana00/lab-kafka-spring/commits/d792938e6de7281e62dcad41bf217ea28cb35a4c)
+*  feat(producer): kafka topic config [View](https://github.com/leoviana00/lab-kafka-spring/commits/c2e19df83cd2c0c2d7655b79a3a1ba37e91dc24b)
+*  feat(producer): kafka producer config [View](https://github.com/leoviana00/lab-kafka-spring/commits/86d5f0a77474841ba630d44904fd7a624b2ba65c)
+*  feat(producer): base project [View](https://github.com/leoviana00/lab-kafka-spring/commits/3f20b80fa02ce106811cca9a9432798239378d57)
+*  feat(producer): order record [View](https://github.com/leoviana00/lab-kafka-spring/commits/6ac414d60c2f58ae0fb13c4741786780d129fcbf)
+*  feat(producer): order service [View](https://github.com/leoviana00/lab-kafka-spring/commits/08a3f7ebe44fa6bdbfa79a66829eec5b396399ed)
+*  feat(producer): order controller [View](https://github.com/leoviana00/lab-kafka-spring/commits/1a0e206cdd43dadc4d1f829e3364cac9525815ca)
+*  feat(producer): configure application [View](https://github.com/leoviana00/lab-kafka-spring/commits/e7b5dfdd5deb13b4b236cb6b838919d7bd82a109)
 
 
 
