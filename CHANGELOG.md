@@ -2,6 +2,7 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #5 from leoviana00/feature/kafka/consumers [View](https://github.com/leoviana00/lab-kafka-spring/commits/723082c9914801ed3e89184d18377bc2af2f27b8)
 *  Merge pull request #4 from leoviana00/feature/kafka/producer [View](https://github.com/leoviana00/lab-kafka-spring/commits/65d522a5833e314ea321e508d266b8cd8b6a5ee8)
 ### Commits
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/lab-kafka-spring/commits/2d3b3c369dd9794eb840959159415664d153ea83)
@@ -14,6 +15,12 @@
 *  feat(producer): order service [View](https://github.com/leoviana00/lab-kafka-spring/commits/08a3f7ebe44fa6bdbfa79a66829eec5b396399ed)
 *  feat(producer): order controller [View](https://github.com/leoviana00/lab-kafka-spring/commits/1a0e206cdd43dadc4d1f829e3364cac9525815ca)
 *  feat(producer): configure application [View](https://github.com/leoviana00/lab-kafka-spring/commits/e7b5dfdd5deb13b4b236cb6b838919d7bd82a109)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/lab-kafka-spring/commits/1cbd95a6e8701a5c4dce13f5c5f82315c6e825ae)
+*  feat(consumer1): base project [View](https://github.com/leoviana00/lab-kafka-spring/commits/f96d07d5e6848ad6164a319dbcce810279ff0e98)
+*  feat(consumer1): object record [View](https://github.com/leoviana00/lab-kafka-spring/commits/ddccf0d93804c0e8becf3f1733fe517367a0f4ae)
+*  feat(consumer): kafka consumer config [View](https://github.com/leoviana00/lab-kafka-spring/commits/17efc48103094ff2ed46fd6df85370beac435d8f)
+*  feat(consumer1): order service [View](https://github.com/leoviana00/lab-kafka-spring/commits/8981067a4bbb08b44827bc1d340dac3c2b29c05c)
+*  feat(consumer1): config project [View](https://github.com/leoviana00/lab-kafka-spring/commits/c0988a3ca943d909e2d65849c1175f5262dfde34)
 
 
 
