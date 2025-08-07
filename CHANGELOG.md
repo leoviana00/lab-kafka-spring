@@ -2,6 +2,14 @@
 
 ## Current - Work in progress
 ### Merges
+
+### Commits
+
+
+
+## 2.0.0 - (2025-08-02)
+### Merges
+*  Merge pull request #8 from leoviana00/feature/kafka/consumers [View](https://github.com/leoviana00/lab-kafka-spring/commits/4003f25bad81e0727663baf40706b744ef6b4e50)
 *  Merge pull request #7 from leoviana00/feature/kafka/consumers [View](https://github.com/leoviana00/lab-kafka-spring/commits/41ed561465f2678ba0a0fdb19612f1b74d00b90f)
 *  Merge pull request #6 from leoviana00/feature/kafka/consumers [View](https://github.com/leoviana00/lab-kafka-spring/commits/50264a7ce644ae2084a185807860c1bbf3a7bd8d)
 *  Merge pull request #5 from leoviana00/feature/kafka/consumers [View](https://github.com/leoviana00/lab-kafka-spring/commits/723082c9914801ed3e89184d18377bc2af2f27b8)
@@ -31,6 +39,8 @@
 *  feat(consumer2): business layer order service [View](https://github.com/leoviana00/lab-kafka-spring/commits/55e652e139c9507cb32b3d989a9ae354ca743506)
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/lab-kafka-spring/commits/a70c80dafe6de2ad0b716b80c34ee38e35386943)
 *  feat(consumer2): Move the service into the applications directory [View](https://github.com/leoviana00/lab-kafka-spring/commits/792dabdd56cd17eb7202522534ee9edefc137bfa)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/lab-kafka-spring/commits/db27e960049b3955e52d7eee8ae1f034fc2afef5)
+*  feat(changelog): generate tag for applications packaging [View](https://github.com/leoviana00/lab-kafka-spring/commits/5e1e5ee80a7dc3600941f46a91177f76849e28ee)
 
 
 
@@ -55,8 +65,9 @@
 *  feat(templates): issues and pr templates [View](https://github.com/leoviana00/lab-kafka-spring/commits/e5b581e0119dc4c31cd4e1152fcaf73a4c1ffc64)
 ## 📝 Metadata
 ```
-This version -------- 1.0.0
+This version -------- 2.0.0
+1.0.0
 0.0.0
-Previous version ---- 0.0.0
-Total commits ------- 6
+Previous version ---- 1.0.0
+Total commits ------- 37
 ```
