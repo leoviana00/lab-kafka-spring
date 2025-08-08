@@ -2,8 +2,11 @@
 
 ## Current - Work in progress
 ### Merges
-
+*  Merge pull request #9 from leoviana00/docs/project [View](https://github.com/leoviana00/lab-kafka-spring/commits/096baba6f7034307c39ec6939e0eae3f028c8c8f)
 ### Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/lab-kafka-spring/commits/ff593963bf31942850f29e6df1426398f4907e2a)
+*  doc(diagram): doc project [View](https://github.com/leoviana00/lab-kafka-spring/commits/b1b47782096371d30a476204909aff5447648feb)
+*  doc(readme): project [View](https://github.com/leoviana00/lab-kafka-spring/commits/ffe97ed3177786d27b87409b303778ef01bce2f4)
 
 
 
